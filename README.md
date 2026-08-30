@@ -1,4 +1,4 @@
-# Simple Python Number Guessing Game
+# The Very Random Number Guessr Game
 
 Just another simple project I'm building to practice and improve my Python skills!
 
